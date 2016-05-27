@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin-left:50px;
+	margin-right:80px;
+	margin-bottom:60px;
+	font-family:"Georgia";
+}
+
+.table {
+	font-family: Verdana;
+	background-color: #0C6;
+}
+.marquee {
+	font-size: 24px;
+}
+
+.text {
+	font-size: 16px;
+	font-family: Georgia;
+}
+.homeText {
+	font-family: Helvetica;
+	font-size: 20px;
+	font-style: oblique;
+	line-height: normal;
+	color: #000;
+}
+
+.head {
+	font-family: Comic Sans MS, cursive;
+}
+.image {
+	float: right;
+	margin:30px 50px 50px 50px;
+}
+
+.fieldset { 
+    display: inline-block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove(internal value);
+}
